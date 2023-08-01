@@ -1,0 +1,28 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 80f5baa7-5b71-49c9-b6ec-c6a1b80b09c5)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "ETH4K")
+    (date "7/28/2023")
+    (rev "1")
+    (company "Theta Machines LLC")
+    (comment 1 "Ryan Stracener")
+    (comment 2 "© 2023, Theta Machines LLC. ")
+    (comment 3 "There is an Important Notice and Disclaimer at the end of this document.")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text_box "Important Notice and Disclaimer\n=======================================================================================\nThe information contained in this source is provided exclusively for your convenience. These resources are subject to change without notice. Theta Machines LLC disclaims all liability arising from the information contained herein and its use. You are solely responsible for (1) designing and thoroughly testing your solution and (2) ensuring your solution meets applicable standards and requirements.\n\nThis source describes Open Hardware and is licensed under the CERN-OHL-W v2. A copy of this license can be found at https://ohwr.org/cern_ohl_w_v2.pdf. No license is granted to any other intellectual property right held by Theta Machines LLC or third parties.\n\n\n\nTrademarks\n=======================================================================================\nAll trademarks are the property of their respective owners.\n\nAll company, brand, and product names used in this document are for identification purposes only. Use of these names does not imply affiliation with the respective owners.\n"
+    (at 25.4 25.4 0) (size 182.88 82.55)
+    (stroke (width -0.0001) (type default))
+    (fill (type none))
+    (effects (font (face "Arial") (size 2.5 2.5)) (justify left top))
+    (uuid c52e507b-cfc3-49df-b2bd-e53c1c337944)
+  )
+)
