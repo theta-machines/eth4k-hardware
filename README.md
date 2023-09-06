@@ -1,10 +1,13 @@
 # Disco Board &ndash; ETH4K
-The ETH4K is an FPGA development board based on the iCE40HX4K. It includes several robust communication methods such as Ethernet, USB, and many GPIO.
+The [Disco Board &ndash; ETH4K](https://www.thetamachines.com/shop/eth4k/) is a completely open-source FPGA development board based on the iCE40HX4K. The board includes several robust communication methods such as Ethernet, USB, and abundant GPIO.
+
+The iCE40HX4K features 3,520 logic cells, 80k-bits of embedded RAM, and 2 PLLs. The official tools for working with this device are [iCEcube2 Design Software](https://www.latticesemi.com/iCEcube2) and [Diamond Programmer](https://www.latticesemi.com/programmer). iCEcube2 is used to generate the bitmaps, and Diamond Programmer is used to flash the bitmaps onto the FPGA.
 
 ## Documentation
-* Schematic: <https://docs.thetamachines.com/document?id=1>
-* Bill of Materials: <https://docs.thetamachines.com/document?id=2>
-* Data Sheet: <https://docs.thetamachines.com/document?id=3>
+* [Pinout Diagram](https://www.thetamachines.com/downloads/hardware/eth4k-pinout.png)
+* [Data Sheet](https://www.thetamachines.com/downloads/hardware/eth4k-data-sheet.pdf)
+* [Schematic](https://www.thetamachines.com/downloads/hardware/eth4k-schematic.pdf)
+* [Bill of Materials](https://www.thetamachines.com/downloads/hardware/eth4k-bom.pdf)
 
 ## KiCad Project Overview
 
